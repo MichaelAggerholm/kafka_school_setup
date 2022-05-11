@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9uFlTmjYk/gnMzul0yKAiR6u6Mn6Gg17zbsDMSTX0YLXLtC1j5gGYkgfy4jom7CqKQDVk1GKwnTLX0kufeiqQ==",
+  "success": true,
+  "projectFilePath": "/home/michael/Documents/skole/h4/bigData/kafka_dataSetup/kafka/kafka.csproj",
+  "expectedPackageFiles": [
+    "/home/michael/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.14/microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

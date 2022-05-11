@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sOym4c8VxVLFAaQMVi0x0pvxmT4+zgOdQE2sjyAku/IjML0jCqViG+3NnsbPg9usDnWEbwMV33Ptb7QCHp3Xw==",
+  "success": true,
+  "projectFilePath": "/home/michael/Documents/skole/h4/bigData/kafka_dataSetup/producer/producer.csproj",
+  "expectedPackageFiles": [
+    "/home/michael/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
+    "/home/michael/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.configuration.ini/6.0.0/microsoft.extensions.configuration.ini.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/michael/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
